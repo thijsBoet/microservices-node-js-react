@@ -1,2 +1,3 @@
-# microservices-node-js-react
+# Microservices With NodeJS and React
 Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes
+
